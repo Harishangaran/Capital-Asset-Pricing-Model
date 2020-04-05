@@ -18,6 +18,7 @@ The following script allows you to run regression
 between a benchamrk index such as S&P500 and a stock.
 
 #Call the capm class as follows:
+
     capm(benckmark ticker,stock ticker, period)
         eg: capm('^GSPC','MSFT','500d')
         
